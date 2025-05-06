@@ -77,7 +77,7 @@ g++ -std=c++20 validate_output.cpp -o validate_output
 #### Запуск
 - Генерация
 ```bash
-./generate_input input.bin 5
+./generate_input input.bin <count_of_ints>
 ```
 
 - Валидация
