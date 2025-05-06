@@ -1,0 +1,10 @@
+/build
+/tmp
+.cache
+generate_input
+generate_input.cpp
+validate_output
+validate_output.cpp
+TapeSorter
+input.bin
+output.bin
