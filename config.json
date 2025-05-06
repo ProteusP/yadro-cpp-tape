@@ -1,0 +1,7 @@
+{
+    "delay_read": 1,
+    "delay_write": 2,
+    "delay_move": 3,
+    "delay_rewind": 4
+  }
+  
