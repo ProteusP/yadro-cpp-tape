@@ -22,7 +22,7 @@ make
 Переместим исполняемый файл в корневую директорию:
 
 ```bash
-mv build/src/TapeSorter ../
+mv build/src/TapeSorter .
 ```
 
 Перед запуском можно настроить конфигурационный json файл _config.json_:
