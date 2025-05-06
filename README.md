@@ -42,10 +42,10 @@ mv build/src/TapeSorter ../
 ./TapeSorter <input_file>
 ```
 
-Пример на файле _input.txt_:
+Пример на файле _input.bin_:
 
 ```bash
-./TapeSorter input.txt
+./TapeSorter input.bin
 ```
 
 Выходные данные запишутся в output.bin
